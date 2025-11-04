@@ -16,8 +16,7 @@ Given a number `n` (the size of the linked list) and `n` integers representing t
 5
 2 6 8 10 1
 
-shell
-Copy code
+
 
 ### Output:
 1 10 8 6 2
@@ -40,8 +39,7 @@ Print-LinkedList-in-Reverse/
 │ └── Main.java
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
